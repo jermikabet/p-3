@@ -101,6 +101,7 @@ You should look for a supplier who provides delivery services. The supplier shou
 
 # Plans For Future Development
 
+For the more advanced care takers i would like to talk more bout what you can put in the tank with you pet such as substate, plants, and what other paets can live with you axolotl as well as health consenrs that may pop up.
 
 
 
